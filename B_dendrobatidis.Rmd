@@ -2,8 +2,7 @@
 title: "*B. dendrobatidis* Exploratory Spatial Data Analysis"
 author: "Umberto Fasci"
 date: "`r Sys.Date()`"
-output:
-  rmdformats::robobook:
+output: github_document
     highlight: kate
 ---
 
