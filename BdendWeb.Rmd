@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Data
+# Data Overview
 
 Load the data onto your environment from a **GBIF** download.
 
